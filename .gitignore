@@ -1,7 +1,10 @@
+*~
+*.swp
 .Rproj.user
 .Rhistory
 .RData
 _publish.R
 _book
+_book-*
 _bookdown_files
 rsconnect
