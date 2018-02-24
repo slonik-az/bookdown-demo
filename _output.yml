@@ -1,5 +1,7 @@
 bookdown::html_book:
-  css: toc.css
+  split_by: chapter
+  css:
+    - toc.css
   config:
     toc:
       before: |
